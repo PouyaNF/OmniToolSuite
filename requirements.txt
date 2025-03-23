@@ -1,0 +1,11 @@
+pandas
+gTTS
+pydub
+numpy
+librosa
+noisereduce
+soundfile
+scipy
+python-pptx
+nltk
+langdetect
